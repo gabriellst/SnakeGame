@@ -1,7 +1,5 @@
 import turtle
 from random import randint
-from itertools import cycle
-
 
 class SnakeGame:
     def __init__(self):
