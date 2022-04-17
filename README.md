@@ -1,4 +1,4 @@
-# Snake Game in Python 🐍
+# 🐍 Snake Game in Python 🐍
 
 • This project was developed with the intention of recreating the classic Nokia Snake Game and to practice Object Oriented Programming. 
 
