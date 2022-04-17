@@ -7,6 +7,14 @@
 
 ## Besides that, i made it using python code and python libraries, and that's pretty cool!
 
+## How to run
+
+* Make sure to have Python installed.
+* Make sure to download all libraries used in this project.
+* Download all files from repository
+* Run main.py
+* ENJOY!
+
 ### You can move the snake by pressing the WASD keys, and the objective is to eat as much *yellow dots* as possible, AKA food.
 
 <center>
