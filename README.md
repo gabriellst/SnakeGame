@@ -9,7 +9,7 @@ It's a very simple project, there's nothing different from the original, if you 
 
 ### You can move the snake by pressing the WASD keys, and the objective is to eat as much *yellow dots* as possible, AKA food.
 
-
+![](gameplay.gif)
 
 ## Libraries used
 
