@@ -5,7 +5,7 @@
 • It's a very simple project, there's nothing different from the original, if you have had an experience with this game, you'll be nostalgic.
 
 
-## Besides that, i made it using python code and python libraries, and that's pretty cool!
+### Besides that, i made it using python code and python libraries, and that's pretty cool!
 
 ## How to run
 
