@@ -26,20 +26,20 @@ class SnakeGame:
     def check_colision(self):
         for i in self.snake.body[1:]:
             if self.snake.headpos == i.pos():
-                print("Colidiu consigo mesmo")
+                #print("Colidiu consigo mesmo")
                 self.game = False
 
         if self.snake.head.distance(self.fruit) < 15:
-            print("Comeu uma fruta")
+            #print("Comeu uma fruta")
             self.score_up()
             self.fruit.position_fruit()
 
         if self.snake.headpos[0] < -280 or self.snake.headpos[0] > 280:
-            print("Colidiu na parede")
+            #print("Colidiu na parede")
             self.game = False
 
         if self.snake.headpos[1] < -280 or self.snake.headpos[1] > 280:
-            print("Colidiu na parede")
+            #print("Colidiu na parede")
             self.game = False
 
 

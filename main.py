@@ -6,7 +6,7 @@ screen = turtle.Screen()
 screen.bgcolor("black")
 screen.setup(width=600, height=600)
 screen.title("Gabriel's Snake Game")
-    
+
 game = SnakeGame()
 
 while True:
@@ -17,5 +17,5 @@ while True:
     if not game.game:
         game.gameovertext.printself()
         break
-    
+
 screen.exitonclick()
